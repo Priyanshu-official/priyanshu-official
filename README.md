@@ -1,5 +1,5 @@
 ### Hey Folks! Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>Hi, I'm <b>Priyanshu Kaushal</b>, Developer, learner, Web Developer 🚀 from India, currently.<br>Want to be my Friend!:stuck_out_tongue_winking_eye::sparkles:</p> 
+<p>Hi, I'm <b>Priyanshu Kaushal</b>, Developer, learner, Web Developer 🚀 from India.<br>Want to be my Friend!:stuck_out_tongue_winking_eye::sparkles:</p> 
 <a href="https://www.linkedin.com/in/priyanshuofficial/">
   <img align="left" alt="Priyanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
