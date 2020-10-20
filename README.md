@@ -15,7 +15,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on Open Sourece Project wink:;
+- 👨🏽‍💻  I’m currently Contributing on Open Sourece Projects :wink:
 - 🌱 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
 - 🤔 I’m looking Mentor.
 - 📫 How to reach me: [@Priyanshu](https://www.instagram.com/_priyanshu_01/)
