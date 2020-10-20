@@ -13,13 +13,6 @@
 <br />
 <hr>
 
-**Communities**
-
-<p align="left" >
-  <img height="50" src="./TechPhantoms_Official_Member_Badge.jpg"/> 
-  <img height="50" class="mx0" src="./mozillahero.jpg"/>
-  <br><br>
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on Open Sourece Project wink:;
