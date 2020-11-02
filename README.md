@@ -11,6 +11,7 @@
 </a>
 <br />
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
+  
 <hr>
 
 **Talking about Personal Stuffs:**
