@@ -9,8 +9,8 @@
 <a href="https://twitter.com/priyans10824061">
   <img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <br />
+  <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 <hr>
 
 **Talking about Personal Stuffs:**
