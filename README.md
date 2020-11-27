@@ -1,5 +1,7 @@
-### Hey Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>Hi, I'm <a href="https://priyanshu-official.netlify.app/"><b>Priyanshu Kaushal</b></a> , learner, Web Developer 🚀 from India.<br>you can find me here as well! :stuck_out_tongue_winking_eye::sparkles:</p> 
+## Hey Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm [Priyanshu Kaushal](https://priyanshu-official.netlify.app/)
+<p>I am from India. I am Tech Enthusiast, Community Lover, Web Developer 🚀</p> <br>
+<p>you can find me here as well! :stuck_out_tongue_winking_eye::sparkles:</p>
 <a href="https://www.linkedin.com/in/priyanshuofficial/">
   <img align="left" alt="Priyanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,10 +18,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently Contributing on Open Sourece Projects :wink:
-- 🌱 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
+- 👨🏽‍💻 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
 - 🤔 I’m looking Mentor.
-- 📫 How to reach me: [@Priyanshu](https://www.instagram.com/_priyanshu_01/)
+- 📫 How to reach me: [@Priyanshu](https://www.linkedin.com/in/priyanshuofficial/)
 - ⚡ Fun fact: like to Enroll lot's of Courses :joy:
 
 **Languages and Tools:** 
