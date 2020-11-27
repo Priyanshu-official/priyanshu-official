@@ -15,7 +15,7 @@
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
   
 <hr>
-
+<br>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
