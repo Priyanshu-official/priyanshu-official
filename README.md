@@ -1,5 +1,5 @@
 ## Hey Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-# Hi, I'm [Priyanshu Kaushal](https://priyanshu-official.netlify.app/)
+# Hi, I'm [Priyanshu Kaushal]
 <p>I am from India. I am Tech Enthusiast, Community Lover, Web Developer 🚀</p> <br>
 <p>you can find me here as well! :stuck_out_tongue_winking_eye::sparkles:</p>
 <a href="https://www.linkedin.com/in/priyanshuofficial/">
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/_priyanshu_01/">
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/priyans10824061">
+<a href="https://twitter.com/_priyanshu_1">
   <img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
