@@ -4,6 +4,7 @@
 <p>you can find me here as well! :stuck_out_tongue_winking_eye::sparkles:</p>
 <a href="https://www.linkedin.com/in/priyanshuofficial/">
   <img align="left" alt="Priyanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <i class="fab fa-linkedin"></i>
 </a>
 <a href="https://www.instagram.com/_priyanshu_01/">
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
