@@ -9,7 +9,7 @@
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/_priyanshu_1">
-  <img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Priyanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
@@ -20,7 +20,6 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
-- 🤔 I’m looking Mentor.
 - 📫 How to reach me: [@Priyanshu](https://www.linkedin.com/in/priyanshuofficial/)
 - ⚡ Fun fact: like to Enroll lot's of Courses :joy:
 
