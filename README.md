@@ -3,13 +3,13 @@
 <p>I am from India. I am Tech Enthusiast, Community Lover, Web Developer 🚀</p> <br>
 <p>you can find me here as well! :stuck_out_tongue_winking_eye::sparkles:</p>
 <a href="https://www.linkedin.com/in/priyanshuofficial/">
-  <img align="left" alt="Priyanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img src="https://img.icons8.com/color/35/000000/linkedin-2--v2.png">
 </a>
 <a href="https://www.instagram.com/_priyanshu_01/">
-  <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://img.icons8.com/color/35/000000/instagram-new--v2.png">
 </a>
 <a href="https://twitter.com/_priyanshu_1">
-  <img align="left" alt="Priyanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img src="https://img.icons8.com/color/35/000000/twitter--v2.png">
 </a>
 <br />
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
@@ -21,7 +21,7 @@
 
 - 👨🏽‍💻 I’m currently learning Lot's of stuff:stuck_out_tongue_winking_eye: 
 - 📫 How to reach me: [@Priyanshu](https://www.linkedin.com/in/priyanshuofficial/)
-- ⚡ Fun fact: like to Enroll lot's of Courses :joy:
+- ⚡ Fun fact: Cloud-data doesn't store in Air :joy: (WH.Jr)
 
 **Languages and Tools:** 
 
