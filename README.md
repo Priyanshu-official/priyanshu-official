@@ -2,18 +2,19 @@
 <h3 align="center">I am Tech Enthusiast, Community Lover,Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-official&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-official" /> </p>
+  
+  <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on **Movieclub-webApp**
 
 - 🌱 I’m currently learning **many things ;)**
 
-- 📝 I write articles on [https://hashnode.com/@priyanshu-official](https://hashnode.com/@priyanshu-official)
+- 📝 I write articles on [priyanshu-official](https://hashnode.com/@priyanshu-official)
 
-- 📫 How to reach me **priyanshukaushal878@gmail.com**
+- 📫 How to reach me [Mailme:)](mailto:priyanshukaushal878@gmail.com)
 
-- 📄 Know about my experiences [https://priyanshu-official.netlify.app/](https://priyanshu-official.netlify.app/)
+- 📄 Know about my experiences [priyanshu-official](https://priyanshu-official.netlify.app/)
 
-  <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
