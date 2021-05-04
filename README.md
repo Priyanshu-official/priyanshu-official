@@ -24,10 +24,6 @@
 
 - 📫 How to reach me [Mailme:)](mailto:priyanshukaushal878@gmail.com)
 
-- 📄 Know about my experiences [priyanshu-official](https://priyanshu-official.netlify.app/)
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
