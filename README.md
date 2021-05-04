@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kaushal</h1>
 <h3 align="center">I am Tech Enthusiast, Community Lover,Developer from India</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Tech%20Enthusiast;I%20💙%20Community;Collaboration%201st,%20Code%202nd;I%20am%20Developer%20from%20India;&center=true&width=470&height=45"></a>
+</h3>
 
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-official&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-official" /> </p>
   
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
