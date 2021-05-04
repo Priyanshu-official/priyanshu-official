@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kaushal</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Tech%20Enthusiast;I%20💙%20Community; Programming-Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=470&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Tech%20Enthusiast;I%20💙%20Community;Programming-Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=470&height=45"></a>
 </h3>
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
