@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kaushal</h1>
-<h3 align="center">I am Tech Enthusiast, Community Lover,Developer from India</h3>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Tech%20Enthusiast;I%20💙%20Community;Collaboration%201st,%20Code%202nd;I%20am%20Developer%20from%20India;&center=true&width=470&height=45"></a>
 </h3>
