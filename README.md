@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kaushal</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Tech%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45"></a>
 </h3>
 
 <p align="center">
@@ -39,6 +39,8 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<br>
 
 <table>
   <tr>
