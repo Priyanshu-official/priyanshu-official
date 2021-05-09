@@ -44,9 +44,9 @@
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-official&show_icons=true&locale=en" alt="priyanshu-official" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-official&show_icons=true&locale=en&count_private=true&hide_border=true" alt="priyanshu-official" />
     </td>
-    <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-official&" alt="priyanshu-official"/>
+    <td> 
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=priyanshu-official&hide_border=true" />
     </td>
 </table>
