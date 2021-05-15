@@ -12,9 +12,8 @@
 </p>
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-official&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-official" /> </p>
   
-  <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="giphy.gif" width="450" height="320" />
 
 
 - 🌱 I’m currently learning **many things ;)**
