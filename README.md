@@ -17,8 +17,6 @@
   <img align="right" alt="GIF" src="giphy.gif" width="500" height="320" />
 
 
-- 🔭 I’m currently working on **Movieclub-webApp**
-
 - 🌱 I’m currently learning **many things ;)**
 
 - 📝 I write articles on [priyanshu-official](https://hashnode.com/@priyanshu-official)
@@ -40,7 +38,8 @@
 
 
 
-<br/>
+<br/> <br/>
+
 <table>
   <tr>
     <td>
