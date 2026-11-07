@@ -41,7 +41,7 @@ Currently leading a team in data engineering, business operations, and digital t
 ### 🏗️ What I'm Working On & Recent Builds
 
 * **Enterprise Digital Transformation & Automation:** Leading end-to-end business process automation, custom internal tooling, and ETL pipelines using **Microsoft Fabric, PySpark, SQL, Power Automate, and Power Apps**.
-* **Academic Publishing Intelligence Platform:** Building a semantic search and journal recommendation system using **Next.js, Supabase, and `pgvector`** to match research manuscripts with relevant academic journals.
+* **Real-Time Voice Appointment Assistant for Healthcare:** Engineered a low-latency conversational voice AI agent using **Python, LangGraph, and real-time audio streaming** to automate patient triage, slot verification, and healthcare appointment scheduling.
 * **Multimodal Screenshot Vault:** Designed a cloud-first indexing pipeline using **Gemini 2.0 Flash, PostgreSQL, and `pgvector`** to extract, classify, and vector-search text and visual data from raw screenshots.
 * **Local AI & Observability Tinkering:** Running open-weight coding models locally via **Ollama** (`Qwen2.5-Coder`) for offline ETL debugging, and monitoring Python automation containers with self-hosted **Grafana / OpenObserve** stacks.
 
